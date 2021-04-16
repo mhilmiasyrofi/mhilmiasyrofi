@@ -9,6 +9,9 @@
 <a href="https://leetcode.com/mhilmiasyrofi/">
   <img align="left" alt="Hilmi's Leetcode" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />
 </a>
+<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F4Sfw6QJIi5qh9umDrtLZdfTW4Jo6VvnEvyMLWModTtV0qe4SI4Teu2HhgapxsX508kxYxjBWU7ISMK7CtWIS73wxN9yArryRCRj1cRLrH9Cy-17gs&user=BrkfL7UAAAAJ">
+  <img align="left" alt="Hilmi's Google Scholar" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mhilmiasyrofi.mhilmiasyrofi)
 
