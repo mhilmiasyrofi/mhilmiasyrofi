@@ -17,10 +17,10 @@
 
 <br />
 
-I'm Muhammad **Hilmi** Asyrofi, a Machine Learning Enthusiast from Indonesia. I received my Bachelor Degree in Computer Science (Cum Laude) from Institut Teknologi Bandung
+I'm Muhammad **Hilmi** Asyrofi, a Machine Learning Enthusiast from Indonesia. I received my bachelor degree in Computer Science (Cum Laude) from Institut Teknologi Bandung
 
-Currently, I'm working in Singapore as a Research Engineer at [SCIS SMU](https://scis.smu.edu.sg). I'm very fortunate to be advised by [ACM Distinguished Scientist Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/) 
+Currently, I'm working in Singapore as a Data Scientist at [PropertyGuru](https://www.propertyguru.com.sg); helping my friends to find home easier by ensuring good quality product listing 😀. Before joining PropertyGuru, I was a Research Engineer at [SCIS SMU](https://scis.smu.edu.sg) supervised by [ACM Distinguished Scientist Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I conducted research on Trustworthy Artificial Intelligence, trying to make AI robust, safe, and ethical.
 
 
-- :man_technologist: I’m conducting research on Trustworthy Artificial Intelligence, trying to make AI robust, safe, and ethical. I open for collaboration with anyone interested in this domain. Please reach me at [mhilmiasyrofi(at)gmail.com](mailto:mhilmiasyrofi@gmail.com)
+- :man_technologist: Please reach me at [mhilmiasyrofi(at)gmail.com](mailto:mhilmiasyrofi@gmail.com)
 - 📝 [Resume](https://mhilmiasyrofi.github.io/files/Resume.pdf)
