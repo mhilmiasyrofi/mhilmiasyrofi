@@ -20,13 +20,17 @@
 
 <h2> Hey there 👋</h2>
 
-🧑‍💻 I'm Hilmi, a seasoned Data Scientist with extensive experience in **architecting machine learning solutions in the Cloud**. 
+🧑‍💻 I'm Hilmi, a passionate Machine Learning Engineer with over 5 years of experience! I specialize in **architecting and productionizing advanced ML models that drive business value**. My expertise encompasses software development, cloud-based machine learning, and cross-functional collaboration to deliver high-impact, scalable solutions.
 
-💼 Currently, I hold the role of a Machine Learning Engineer at PropertyGuru Singapore, where I specialize in **transforming machine learning projects into revenue-generating solutions** while optimizing business operations. Notably, I have successfully delivered a B2B solution known as the Automated Valuation Model, which is actively utilized by enterprise customers, including banks and real estate consultants in Malaysia.
+💼 I'm currently working as a Data Scientist at PropertyGuru Singapore, where I transform ML projects into revenue-generating solutions. A key highlight of my work includes: 
+- **Led the development of an Automated Valuation Model**: an enterprise-grade B2B product that automates property appraisals for banks and real estate consultants in Malaysia
+- **Architected a Regional Dynamic Pricing System**, which significantly improved pricing accuracy and optimized revenue, by streamlining the end-to-end pricing process and increasing the frequency of price updates from bi-weekly to daily
 
-📊 I possess **a robust background in analytics and programming**. I've made significant contributions to the field by publishing seven papers on Trustworthy Artificial Intelligence in top-tier international conferences and journals, under the guidance of ACM Distinguished Scientist Prof David Lo. 
+📊 I posses a solid foundation in both machine learning and software engineering. I’ve contributed to cutting-edge research, publishing 7 papers in top-tier international conferences and journals with the guidance of ACM Distinguished Scientist [Prof David Lo](http://www.mysmu.edu/faculty/davidlo/). 
 
-🏅 Additionally, my expertise in Data Science, particularly in the domains of NLP (Natural Language Processing) and CV (Computer Vision), is exemplified by my profile as a **Kaggle Competitions Expert**. I also hold an AWS Certified **Solution Architect** certification, affirming my ability to effectively productionize machine learning projects.
+🏅 I hold an **AWS Certified Solution Architect** certification, underscoring my capability to productionize ML projects in the cloud. My technical expertise in Natural Language Processing (NLP) and Computer Vision (CV) is further demonstrated by my standing as a **Kaggle Competitions Expert**.
+
+🌟 Beyond my professional endeavors, I’m dedicated to continuous learning and personal growth. Whether it’s engaging in tech events or staying active with tennis and golf, I’m always on the lookout for new challenges and opportunities to grow!
 
 - :man_technologist: You can reach out to me via [mhilmiasyrofi(at)gmail.com](mailto:mhilmiasyrofi@gmail.com)
 - 📝 [Resume](https://mhilmiasyrofi.github.io/files/Resume.pdf)
