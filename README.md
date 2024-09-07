@@ -20,14 +20,14 @@
 
 <h2> Hey there 👋</h2>
 
-🧑‍💻 I'm Hilmi, a passionate Machine Learning Engineer with over 5 years of experience! I specialize in **architecting and productionizing advanced ML models that drive business value**. My expertise encompasses software development, cloud-based machine learning, and cross-functional collaboration to deliver high-impact, scalable solutions.
+🧑‍💻 I'm Hilmi, a passionate Machine Learning Engineer with over 5 years of experience! I specialize in **productionizing advanced ML models that drive business value**. My expertise encompasses software development, cloud-based machine learning, and cross-functional collaboration to deliver high-impact & scalable solutions.
 
 💼 I'm currently working as a Data Scientist at PropertyGuru Singapore, where I transform ML projects into revenue-generating solutions. A key highlight of my work includes: 
 
 - Led the development of an [Automated Valuation Model](https://www.linkedin.com/posts/knight-frank-malaysia_knightfrank-knightfrankmalaysia-partnersinproperty-activity-7051073263258529792-5Lct): an enterprise-grade B2B product that automates property appraisals for banks and real estate consultants across Malaysia, streamlining their workflows and enhancing decision-making.
-- Architected a **Regional Dynamic Pricing System**: This system significantly enhanced operational efficiency, improved pricing accuracy, and [boosted quarterly revenue by $3.75 million (~11% YoY)](https://investors.propertygurugroup.com/financials/quarterly-results/default.aspx). By automating the pricing process, we increased price update frequency from bi-weekly to daily, optimizing market responsiveness.
+- Architected a **Regional Dynamic Pricing System**: this system significantly enhanced operational efficiency, improved pricing accuracy, and [boosted quarterly revenue by $3.75 million YoY](https://investors.propertygurugroup.com/financials/quarterly-results/default.aspx). By automating the pricing process, we increased price update frequency from bi-weekly to daily, optimizing market responsiveness.
 
-📊 I posses a solid foundation in both machine learning and software engineering. I’ve contributed to cutting-edge research, publishing 7 papers in top-tier international conferences and journals with the guidance of ACM Distinguished Scientist [Prof David Lo](http://www.mysmu.edu/faculty/davidlo/). 
+📊 I posses a solid foundation in both machine learning and software engineering. I’ve contributed to cutting-edge research, publishing 7 papers in top-tier international conferences and journals with the guidance of ACM Distinguished Scientist [Prof David Lo](https://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en). 
 
 🏅 I hold an **AWS Certified Solution Architect** certification, underscoring my capability to productionize ML projects in the cloud. My technical expertise in Natural Language Processing (NLP) and Computer Vision (CV) is further demonstrated by my standing as a **Kaggle Competitions Expert**.
 
