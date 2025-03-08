@@ -1,7 +1,7 @@
 <h2> 
   Hey there 👋
   <a href="https://vbr.nathanchung.dev/badge?page_id=mhilmiasyrofi.mhilmiasyrofi&style=for-the-badge&logo=Github">
-    <img align="right" alt="Hilmi's LinkedIn" height="22px" src="https://vbr.nathanchung.dev/badge?page_id=mhilmiasyrofi.mhilmiasyrofi&style=for-the-badge&logo=Github" />
+    <img align="right" height="22px" src="https://vbr.nathanchung.dev/badge?page_id=mhilmiasyrofi.mhilmiasyrofi&style=for-the-badge&logo=Github" />
   </a>
 </h2>
 
