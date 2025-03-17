@@ -27,7 +27,7 @@ Currently, I’m a Data Scientist at PropertyGuru Singapore, focusing on deliver
 
 🏅 I'm an AWS Certified Solutions Architect and ML Specialist, a Kaggle Competitions Expert (top 1.5%), and an AWS Community Builder 𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐳𝐞𝐝 𝐟𝐨𝐫 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠.
 
-📊 With a solid foundation in both software engineering and machine learning, I’ve contributed to cutting-edge research in 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐀𝐈-𝐞𝐧𝐚𝐛𝐥𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 (SE4AI), by publishing 7 𝐩𝐚𝐩𝐞𝐫𝐬 𝐢𝐧 𝐭𝐨𝐩-𝐭𝐢𝐞𝐫 𝐢𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐜𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 𝐚𝐧𝐝 𝐣𝐨𝐮𝐫𝐧𝐚𝐥𝐬 with the guidance of ACM Distinguished Scientist [Prof David Lo](https://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en).
+📊 With a solid foundation in both software engineering and machine learning, I’ve contributed to cutting-edge research in 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐀𝐈-𝐞𝐧𝐚𝐛𝐥𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 (SE4AI), by publishing 7 𝐩𝐚𝐩𝐞𝐫𝐬 𝐢𝐧 𝐭𝐨𝐩-𝐭𝐢𝐞𝐫 𝐢𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐜𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 𝐚𝐧𝐝 𝐣𝐨𝐮𝐫𝐧𝐚𝐥𝐬 with the guidance of ACM Distinguished Scientist [Prof David Lo](https://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en). [ [Recommendation Letter](https://drive.google.com/file/d/1qCdfXv_gRqM1UB9iHie23PyrVX36dK8G/view) ]
 
 ⛳ Beyond my professional work, I'm passionate about 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐠𝐫𝐨𝐰𝐭𝐡. You’ll find me regularly engaging in industry events, or on the tennis courts and golf courses building professional connections.
 
