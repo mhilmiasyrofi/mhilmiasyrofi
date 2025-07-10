@@ -1,5 +1,5 @@
 <h2> 
-  Hey there 👋
+  Hey there!
   <a href="https://vbr.nathanchung.dev/badge?page_id=mhilmiasyrofi.mhilmiasyrofi&style=for-the-badge&logo=Github">
     <img align="right" height="22px" src="https://vbr.nathanchung.dev/badge?page_id=mhilmiasyrofi.mhilmiasyrofi&style=for-the-badge&logo=Github" />
   </a>
