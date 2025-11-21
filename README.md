@@ -21,6 +21,8 @@ I'm Hilmi, a Machine Learning Engineer with over 5 years of experience designing
 
 I'm a 𝐒𝐢𝐧𝐠𝐚𝐩𝐨𝐫𝐞 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐑𝐞𝐬𝐢𝐝𝐞𝐧𝐭, currently working at PropertyGuru Singapore. I’ve delivered high-impact data-driven products through cross-functional collaboration, including:
 
+- 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦 𝐟𝐨𝐫 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞: Built and deployed a two-stage recommendation system serving 2M+ daily requests, featuring efficient feature retrieval, autoscaling APIs, and fault-tolerant infrastructure to ensure high availability. Achieved 2x latency improvement (65% p50 reduction) through sharded caching, optimized network routing, standardized logging, and continuous performance tuning informed by Datadog observability.
+
 - 𝐀𝐝𝐬 𝐏𝐫𝐢𝐜𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦 𝐟𝐨𝐫 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞: Developed a demand-supply-based pricing engine leveraging advanced analytics and LLM-powered anomaly detection, resulting in an [11% year-over-year revenue increase](https://www.propertygurugroup.com/newsroom/propertyguru-reports-second-quarter-2024-results/#:~:text=Marketplaces%20revenues%20increased%2011%25%20year%20over%20year) ($35M→$39M) across Southeast Asian markets. [ [ Regional Ads Pricing ](https://www.linkedin.com/posts/mhilmiasyrofi_createwhatsnext-wearegurus-activity-7246466001024794624-JoZF/) ]
 
 - 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬: Led the development and deployment of an Automated Valuation Model (AVM), adopted by enterprise clients such as Knight Frank and RHB Bank, significantly streamlining their property valuation processes. [ [Knight Frank Partnership](https://www.linkedin.com/posts/propertyguru-for-business_knightfrank-knightfrankmalaysia-partnersinproperty-activity-7051361835786129408-xYZc/) ]
