@@ -1,11 +1,3 @@
-
-<p align="center">
-  <b>I build AI systems for a living. On a good day, you’ll find me on the tennis court.</b>
-</p>
-<p align="center">
-
-</p>
-
 <p align="center">
   <a href="https://mhilmiasyrofi.github.io/files/Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-2D3748?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/mhilmiasyrofi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
@@ -16,4 +8,8 @@
 
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mhilmiasyrofi&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+<p align="center">
+  <b>I build AI systems for a living. On a good day, you’ll find me on the tennis court.</b>
 </p>
